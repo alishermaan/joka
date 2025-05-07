@@ -24,3 +24,53 @@
    ```bash
    git clone https://github.com/your-username/joka.ai.git
    cd joka.ai
+npm install
+PORT=3000
+MONGO_URI=your_mongodb_connection_string
+OPENAI_API_KEY=your_openai_api_key
+JWT_SECRET=your_jwt_secret (optional)
+npm start
+npm start
+📸 Screenshots
+Add screenshots or a demo gif of your app here.
+
+🧠 How It Works
+Users type a message in the chat box.
+
+The backend sends the input to the OpenAI API (or your AI logic).
+
+The response is returned and displayed on the frontend.
+
+Optional: Store conversation history in MongoDB.
+
+✨ Future Features
+Voice input/output support
+
+Theme switching (light/dark mode)
+
+Chat export (PDF or TXT)
+
+Advanced personalities or custom AI personas
+
+🙌 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
+
+📄 License
+MIT License
+
+Made with ❤️ by Your Name
+
+yaml
+Copy
+Edit
+
+---
+
+Would you like me to tailor this more specifically based on the exact features of your Joka.ai app?
+
+
+
+
+
+
+
